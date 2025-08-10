@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter and AWS**
 
-- 👯 I’m looking to collaborate on **Full Stack Project**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **react**
 
