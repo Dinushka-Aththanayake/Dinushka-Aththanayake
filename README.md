@@ -1,16 +1,23 @@
-<h3 align="center">A passionate Computer Science Engineer from Sri Lanka</h3>
+## 👋 Hi there, I'm **Dinushka**!
 
-- 🔭 I’m currently working on **Personalized Music Classifier**
+🚀 **Computer Science Engineer**
 
-- 🌱 I’m currently learning **Flutter and AWS**
+---
+##  A computer science student who enjoys turning coffee into clean code.
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **react**
+## 👋 About Me
 
-- 📫 How to reach me **dinushkahimesh@gmail.com**
+- 💻 Passionate about modern web development using **React**, **Next.js**, and **Spring Boot**  
+- 🧩 Solve problems with **Data Structures & Algorithms** as a hobby  
+- 🛠️ Enjoy fixing errors and debugging — yes, even the tricky ones!  
 
-- ⚡ Fun fact  Prefer algorithms with better time complexity… because life’s too short for O(n²)
+---
+## 🔥 Current Projects
+
+- 🎵 **Personalized AI-Driven Music Classifier** – Building a system that classifies music based on user preferences using **AI and Deep learning**  
+- 📚 **Course Management System** – Developing a learning platform for managing courses, resources, and student progress  
+- 🏢 **POS + HR System Upgrade** – Adding new features and improvements to an existing company **Point of Sale** and **Human Resource** management system  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
