@@ -29,9 +29,10 @@
 <a href="https://www.linkedin.com/in/dinushka-himesh-559ab82b0" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinushka himesh" height="30" width="40" />
 </a>
-<a href="dinushkahimesh@gmail.com" target="_blank">
+<a href="mailto:dinushkahimesh@gmail.com">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
 </a>
+
 
 
 </p>
