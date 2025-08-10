@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dinushkahimesh@gmail.com**
 
-- ⚡ Fun fact ** Prefer algorithms with better time complexity… because life’s too short for O(n²)**
+- ⚡ Fun fact  Prefer algorithms with better time complexity… because life’s too short for O(n²)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
